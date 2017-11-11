@@ -181,6 +181,26 @@ img {
 	width: 10vw;
 }
 
+#advise{
+	position: absolute;
+	top: 20vh;
+	left: 15vw;
+	z-index: 199;
+	background-color: rgba(77, 51, 143, 0.8);
+	border-radius: 30px;
+	box-shadow: 0 0 8px #4D338F;
+	color: white;
+	font-family: Helvetica;
+	font-size: 14px;
+	line-height: 15px;
+	letter-spacing: 1px;
+	padding: 20px 12px 20px 12px;
+	text-align: justify;
+	width: auto;
+	height: auto;
+
+}
+
 #messageEnd{
 	position: absolute;
 	color: var(--orange);
